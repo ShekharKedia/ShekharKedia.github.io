@@ -11,3 +11,5 @@
 - 🔎 For more information about me please feel free to go through my [CV](https://drive.google.com/file/d/1PKu-QnrXRL83urwffRPuxdBBypjqVRf6/view?usp=drive_link)
 
 - 📫 How to reach me: connect.skedia@gmail.com
+
+![](https://komarev.com/ghpvc/?username=ShekharKedia)
