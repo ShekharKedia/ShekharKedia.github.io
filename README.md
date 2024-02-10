@@ -8,7 +8,7 @@
 
 - 💞️ I’m looking to collaborate on projects where I can add value and also learn/upskill myself
 
-- 🔎 For more information about me please feel free to go through my [CV](https://drive.google.com/file/d/1PKu-QnrXRL83urwffRPuxdBBypjqVRf6/view?usp=drive_link)
+- 🔎 For more information about me please feel free to go through my [CV](https://drive.google.com/file/d/1yD8yq6fdyhO7yDM1F4XvguIumqP5L5IZ/view?usp=drive_link)
 
 - 📫 How to reach me: connect.skedia@gmail.com
 
