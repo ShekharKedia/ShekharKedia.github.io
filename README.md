@@ -12,6 +12,8 @@
 
 - 📫 How to reach me: connect.skedia@gmail.com
 
+![](https://komarev.com/ghpvc/?username=ShekharKedia)
+
 =======
 <div align="center">
   <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
