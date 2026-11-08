@@ -1,0 +1,107 @@
+---
+title: ""
+page-layout: full
+---
+
+::: {.hero}
+
+::: {.columns}
+
+::: {.column width="65%"}
+
+# Shekhar Kedia
+
+**Teaching Fellow in Applied Social Data Science**  
+*Trinity College Dublin*
+
+I am a social scientist and data analyst interested in the use of quantitative methods, computational social science, and data-driven approaches to understand social and policy issues.
+
+
+[Research](research.qmd) · [Teaching](teaching.qmd) · [Projects](projects.qmd) · [CV](CV_ShekharKedia.pdf)
+
+:::
+
+::: {.column width="35%"}
+
+![Shekhar Kedia](images/ShekharKedia.jpeg)
+
+:::
+
+:::
+
+:::
+
+## About
+
+I work at the intersection of social science and data science, with interests spanning applied statistics, computational social science, quantitative text analysis, machine learning, and data visualisation.
+
+My current work includes teaching and research in Applied Social Data Science at Trinity College Dublin.
+
+## Research
+
+My research interests include:
+
+- Computational social science
+- Quantitative text and sentiment analysis
+- Social media and public opinion
+- Applied machine learning
+- Social and policy data analysis
+
+[View my research →](research.qmd)
+
+## Teaching
+
+I teach and support students in areas including:
+
+- Applied statistical analysis
+- R and Python programming
+- Research design
+- Quantitative text analysis
+- Machine learning
+
+[View my teaching →](teaching.qmd)
+
+## Selected work
+
+::: {.project-grid}
+
+::: {.project-card}
+
+### Public Sentiment and Hate Speech on Reddit
+
+Analysing public sentiment and discussions around immigration in Ireland using text analysis and supervised machine learning.
+
+[View project →](projects.qmd)
+
+:::
+
+::: {.project-card}
+
+### Vulnerable Road Users
+
+Research and data analysis on accidents involving cyclists and e-scooter users in Ireland.
+
+[View project →](projects.qmd)
+
+:::
+
+::: {.project-card}
+
+### Airbnb Dublin
+
+Applied clustering and exploratory analysis of Airbnb listings in Dublin.
+
+[View project →](projects.qmd)
+
+:::
+
+:::
+
+[View all projects →](projects.qmd)
+
+
+## Connect
+
+[GitHub](https://github.com/ShekharKedia) ·
+[LinkedIn](https://www.linkedin.com/in/shekharkedia/) · 
+[Google Scholar](https://scholar.google.com/)

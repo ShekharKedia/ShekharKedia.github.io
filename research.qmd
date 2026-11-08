@@ -1,0 +1,96 @@
+---
+title: "Research"
+---
+
+# Research
+
+My research sits at the intersection of social science, quantitative methods, and computational approaches to social and policy research.
+
+## Research interests
+
+My work focuses on the use of quantitative and computational methods to study social and policy questions. My research interests include:
+
+- **Computational social science**
+- **Quantitative text and sentiment analysis**
+- **Social media and public opinion**
+- **Applied statistics and machine learning**
+- **Social and policy data analysis**
+- **Data visualisation**
+
+## Selected research
+
+::: {.research-item}
+
+### Public Sentiment and Hate Speech on Reddit
+
+**MSc Dissertation · Trinity College Dublin · 2025**
+
+Analysed public sentiment and hate speech in discussions around immigration in Ireland using Reddit data, quantitative text analysis, sentiment analysis, and supervised machine learning.
+
+The project examined patterns in how immigration is discussed online and explored variation in sentiment and potentially hateful language across discussions.
+
+[View project →](projects.qmd)
+
+:::
+
+::: {.research-item}
+
+### Accidents Involving Cyclists and E-scooter Users
+
+**Research and Data Insights · Injuries Resolution Board · 2024**
+
+Analysed data relating to accidents involving vulnerable road users, with a particular focus on cyclists and e-scooter users.
+
+The work contributed to an analytical framework for understanding patterns in road traffic accidents and personal injury claims.
+
+:::
+
+::: {.research-item}
+
+### Personal Injuries Award Values Report
+
+**Research and Data Insights · Injuries Resolution Board · 2024**
+
+Analysed personal injury award values and characteristics of injury claims, contributing to the organisation's reporting and understanding of award patterns.
+
+:::
+
+## Research methods
+
+I use quantitative and computational methods across research projects, including:
+
+::: {.method-grid}
+
+::: {.method-item}
+
+### Statistical analysis
+
+Regression modelling, hypothesis testing, statistical inference and exploratory data analysis using R and Python.
+
+:::
+
+::: {.method-item}
+
+### Computational social science
+
+Text analysis, sentiment analysis, social media data and analysis of large-scale unstructured data.
+
+:::
+
+::: {.method-item}
+
+### Machine learning
+
+Supervised learning, clustering and predictive modelling using R and Python.
+
+:::
+
+::: {.method-item}
+
+### Data visualisation
+
+Communicating quantitative findings using R, Python, Power BI and interactive visualisation tools.
+
+:::
+
+:::
