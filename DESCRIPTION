@@ -1,0 +1,7 @@
+Package: shekharkedia-website
+Title: Academic Website of Shekhar Kedia
+Version: 0.1.0
+Description: Personal academic website of Shekhar Kedia.
+Imports:
+    knitr,
+    rmarkdown
