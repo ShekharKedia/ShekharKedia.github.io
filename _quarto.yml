@@ -12,12 +12,6 @@ website:
         text: Home
       - href: research.qmd
         text: Research
-      - href: teaching.qmd
-        text: Teaching
-      - href: projects.qmd
-        text: Projects
-      - href: resources.qmd
-        text: Resources
       - href: CV_ShekharKedia.pdf
         text: CV
 

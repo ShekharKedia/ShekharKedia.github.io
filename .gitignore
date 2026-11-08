@@ -1,6 +1,7 @@
 # Quarto
 .quarto/
 _site/
+*.quarto_ipynb
 
 # R
 .Rhistory
