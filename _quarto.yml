@@ -22,6 +22,9 @@ website:
   open-graph: true
   twitter-card: true
 
+resources:
+  - google560fc5762046a7d0.html
+
 format:
   html:
     theme: cosmo
