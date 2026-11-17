@@ -1,0 +1,22 @@
+---
+title: "Todo"
+output: html_document
+date: "2026-11-17"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Website TODO
+------------
+
+[ ] Custom domain
+[ ] Google Scholar profile
+[ ] Add project repositories
+[ ] Add links to published reports
+[ ] Add CV download link on Home
+[ ] Add profile/ORCID if useful
+[ ] Improve SEO metadata
+[ ] Add publication list if publications grow
+[ ] Add selected datasets/code where appropriate
