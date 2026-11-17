@@ -1,0 +1,250 @@
+---
+title: ""
+---
+
+# Projects
+
+A selection of research and analytical projects spanning computational social science, applied policy research, programme evaluation, and quantitative methods.
+
+## Computational social science
+
+::: {.project-card}
+
+### Public Sentiment and Hate Speech on Reddit
+
+**MSc Dissertation · Trinity College Dublin · 2025**
+
+This project examined how immigration is discussed in Ireland on Reddit, with a particular focus on public sentiment and potentially hateful language.
+
+The research used Reddit data from county-level communities across the Republic of Ireland and combined quantitative text analysis, sentiment analysis, supervised machine learning and topic modelling.
+
+**Methods:** Quantitative text analysis · Sentiment analysis · Supervised machine learning · Topic modelling
+
+[View project →](#public-sentiment-and-hate-speech-on-reddit)
+
+:::
+
+::: {.project-card}
+
+### Indian Budget Analysis: Text Complexity & Net Sentiment
+
+**Independent research · 2024**
+
+An analysis of Indian Union Budget speeches from 1948–2024, examining changes in language complexity, lexical characteristics and sentiment over time.
+
+The project used computational text-analysis techniques to construct and analyse a long historical corpus of political speeches.
+
+**Methods:** Corpus construction · Quanteda · Readability analysis · Lexical diversity · Sentiment analysis
+
+[View project →](#indian-budget-analysis)
+
+:::
+
+::: {.project-card}
+
+### Religious Beliefs and Social Space
+
+**Independent research · 2024**
+
+An application of Multiple Correspondence Analysis and Geometric Data Analysis to examine patterns of religious beliefs using international survey data.
+
+The analysis draws on Bourdieu's concept of social space to explore how different dimensions of religious belief relate to one another.
+
+**Methods:** MCA · GDA · Multivariate analysis · Data visualisation
+
+[View project →](#religious-beliefs-and-social-space)
+
+:::
+
+## Applied policy and administrative research
+
+::: {.project-card}
+
+### Accidents Involving Cyclists and E-scooter Users
+
+**Injuries Resolution Board · 2024**
+
+Research examining accidents, injuries and wider outcomes among cyclists and e-scooter users using personal injury compensation assessment data.
+
+The analysis considered accident characteristics, injury severity, employment, quality of life and other outcomes, combining quantitative analysis with thematic analysis of qualitative information from medical reports.
+
+**Methods:** Retrospective analysis · Descriptive statistics · Bivariate analysis · Thematic analysis
+
+[View project →](#accidents-involving-cyclists-and-e-scooter-users)
+
+:::
+
+::: {.project-card}
+
+### Personal Injuries Award Values
+
+**Injuries Resolution Board · 2024**
+
+Analysis of personal injury compensation assessments and claim volumes, examining award values, injury characteristics and changes over time.
+
+The work contributed to understanding patterns in personal injury awards and the implications of changes in the personal-injury framework.
+
+**Methods:** Administrative data analysis · Descriptive statistics · Trend analysis
+
+[View project →](#personal-injuries-award-values)
+
+:::
+
+## Development research and programme evaluation
+
+::: {.project-card}
+
+### MANDI: Women's Empowerment and Market Inclusion
+
+**Grameen Foundation · 2022–23**
+
+Research and evaluation for the Market Access eNabled by Digital Innovation (MANDI) project in Uttar Pradesh.
+
+The work examined women's empowerment, market access, digital and financial inclusion, decision-making, time allocation, group membership and related dimensions of agency and inclusion.
+
+**Methods:** Programme evaluation · pro-WEAI / pro-WEAI+MI · Quantitative and qualitative research
+
+[View project →](#mandi-womens-empowerment-and-market-inclusion)
+
+:::
+
+::: {.project-card}
+
+### Poshan-Shivirs and Child Nutrition
+
+**Grameen Foundation / HCL Foundation · c. 2021**
+
+An evaluation of nutrition camps within the Samuday programme, examining participation, nutrition knowledge, dietary practices and child-health outcomes among participating households in Hardoi district.
+
+**Methods:** Household survey · Beneficiary research · Programme evaluation
+
+[View project →](#poshan-shivirs-and-child-nutrition)
+
+:::
+
+## Project details
+
+### Public Sentiment and Hate Speech on Reddit
+
+**Research question**
+
+How has immigration discourse in Ireland evolved on Reddit, and what patterns of sentiment and potentially hateful language can be identified across discussions and locations?
+
+**Data**
+
+Reddit posts and comments from county-level communities across the 26 counties of the Republic of Ireland, alongside contextual demographic and migration data.
+
+**Approach**
+
+The project combined document-feature matrix construction and quantitative text analysis with sentiment analysis, supervised machine learning and topic modelling. Different modelling approaches were used to classify potentially hateful content and examine patterns in the resulting classifications.
+
+**Output**
+
+MSc dissertation, Trinity College Dublin, 2025.
+
+---
+
+### Accidents Involving Cyclists and E-scooter Users
+
+**Research question**
+
+What patterns characterise accidents and resulting injuries among cyclists and e-scooter users, and what wider effects are associated with these injuries?
+
+**Data**
+
+Personal injury compensation assessments relating to cyclists and e-scooter users.
+
+**Approach**
+
+The study used retrospective quantitative analysis of accident, demographic and injury characteristics alongside thematic analysis of qualitative information from medical reports.
+
+**Output**
+
+Research report, Injuries Resolution Board, 2024.
+
+---
+
+### Personal Injuries Award Values
+
+**Research focus**
+
+How have personal injury claim volumes and compensation award values changed over time, and how do these patterns vary by liability category, injury characteristics and severity?
+
+**Data**
+
+Injuries Resolution Board compensation assessments and claim-volume data.
+
+**Approach**
+
+Descriptive and comparative analysis of award values, claim volumes and injury characteristics across periods and liability categories.
+
+**Output**
+
+Personal Injuries Award Values Report, Injuries Resolution Board, 2024.
+
+---
+
+### MANDI: Women's Empowerment and Market Inclusion
+
+**Research focus**
+
+How can women's empowerment and market inclusion be measured within a digital agricultural market-access intervention?
+
+**Data**
+
+Baseline research data from the MANDI project in Eastern Uttar Pradesh.
+
+**Approach**
+
+The research combined quantitative and qualitative approaches, including the project-level Women's Empowerment in Agriculture Index and its market-inclusion extension (pro-WEAI+MI).
+
+The work examined dimensions including decision-making, training and information, digital and financial services, time allocation, group membership, mobility and aspirations.
+
+**Output**
+
+MANDI Baseline Study Report, Grameen Foundation, 2023.
+
+---
+
+### Indian Budget Analysis
+
+**Research focus**
+
+How have the language, complexity and sentiment of Indian Union Budget speeches changed over several decades?
+
+**Data**
+
+Indian Union Budget speeches from 1948–2024.
+
+**Approach**
+
+PDF text was extracted and processed using computational text-analysis methods, including tokenisation, collocation analysis, lemmatisation, lexical diversity, readability and sentiment analysis.
+
+**Output**
+
+*Indian Budget Analysis: Text Complexity & Net Sentiment*, 2024.
+
+---
+
+### Religious Beliefs and Social Space
+
+**Research focus**
+
+How can patterns of religious belief be represented and interpreted as a multidimensional social space?
+
+**Data**
+
+ISSP Religion IV survey data, using a subset of variables and categories relevant to religious belief.
+
+**Approach**
+
+Multiple Correspondence Analysis was used to identify the principal dimensions of variation, followed by Geometric Data Analysis to interpret the resulting social space.
+
+**Output**
+
+*Creating a Structural Space for Religious Beliefs: Using MCA and GDA*, 2024.
+
+## Other research outputs
+
+- **A Case for Clean Cooking Solutions to Curb Environmental Footprint** — *Deccan Chronicle*, 2019
+- **How Poshan-Shivirs can help drive awareness & practice to address SAM/SUW issue in Under 5 children** — Grameen Foundation India, case study

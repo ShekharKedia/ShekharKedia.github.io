@@ -1,0 +1,122 @@
+---
+title: ""
+---
+
+# Teaching
+
+I am a Teaching Fellow in Applied Social Data Science at Trinity College Dublin, where I teach and support students in the use of quantitative and computational methods for social research.
+
+My teaching focuses on helping students develop the practical skills to work with data, understand statistical reasoning, design reproducible analyses, and communicate quantitative findings clearly.
+
+## Teaching areas
+
+My teaching and tutorial support spans:
+
+- Research methods
+- Applied statistical analysis I and II
+- R and Python programming
+- Quantitative text analysis
+- Social forecasting
+- Data analysis and visualisation
+
+## Research methods
+
+I teach **Research Methods**, where students develop the ability to formulate researchable questions, identify appropriate data and methods, and critically assess empirical evidence.
+
+Across my teaching, I place particular emphasis on:
+
+- Connecting methods to research questions
+- Understanding assumptions and limitations
+- Clear interpretation rather than mechanical use of techniques
+- Reproducible analysis
+- Good documentation and readable code
+- Communicating quantitative and qualitative findings to substantive audiences
+
+## Applied Statistical Analysis I
+
+I teach and support **Applied Statistical Analysis I**, where students develop their understanding of connecting statistical concepts to practical social research.
+
+The module also introduces simple regression and later move towards more flexible multivariate models, with emphasis on understanding model specification, estimation, interpretation and assumptions.
+
+Topics include:
+
+- Probability and sampling
+- Sampling distributions and the Central Limit Theorem
+- Hypothesis testing and p-values
+- Type I and Type II errors
+- The Gauss–Markov theorem and OLS
+- Multiple regression including additive and interaction effects
+- Model specification and assumptions
+- Interpreting and communicating results in substantive terms
+
+The emphasis is on understanding why methods work, when they should be used, and how to interpret their results rather than simply reproducing statistical procedures.
+
+## Applied Statistical Analysis II
+
+I also teach and support **Applied Statistical Analysis II**, which extends students' regression knowledge to **generalised linear models (GLMs)**.
+
+The module introduces students to modelling outcomes that cannot be adequately handled using ordinary linear regression and develops their understanding of how the choice of model relates to the nature of the outcome variable.
+
+The emphasis is on understanding model structure, estimation, interpretation and application rather than treating different models as disconnected statistical techniques.
+
+## Computer Programming for Social Sciences
+
+I teach and support **Computer Programming for Social Sciences**, using both **R and Python**.
+
+The module introduces programming as a practical tool for social-science research. Students develop the ability to write, understand, debug and apply code to real data rather than learning programming solely as a technical exercise.
+
+Teaching covers areas including:
+
+- Programming fundamentals and computational thinking
+- Objects and data structures
+- Functions and iteration
+- Data manipulation
+- Data analysis
+- Data visualisation
+- Reproducible workflows
+- Debugging and interpreting errors
+- Applying programming to social-science research questions
+
+Students work in **Jupyter notebooks**, with R taught during the first part of the module and Python introduced subsequently.
+
+## Data Visualisation for Social Scientists
+
+I teach and support **Data Visualisation for Social Scientists**, focusing on the use of visualisation as a tool for exploring data, communicating evidence and making quantitative findings accessible to substantive audiences.
+
+The emphasis is not simply on producing attractive graphics, but on understanding how choices about visual representation affect interpretation.
+
+Students develop skills in selecting appropriate visual forms, working with data, designing effective graphics and communicating patterns clearly.
+
+## Quantitative and computational methods
+
+I also support teaching in areas including **quantitative text analysis and social forecasting**.
+
+These areas connect closely with my own research experience using computational methods to analyse textual, survey and administrative data.
+
+I am particularly interested in helping students understand the connection between:
+
+**research question → data → method → analysis → interpretation**
+
+This means considering not only how a method works, but also why it is appropriate for a particular research problem and what its limitations are.
+
+## Teaching approach
+
+My teaching is grounded in the idea that students learn quantitative methods best when technical skills are connected to meaningful research problems.
+
+I therefore try to make tutorials practical and problem-oriented. Rather than treating code or statistical procedures as isolated technical exercises, I encourage students to understand the reasoning behind each step, identify and debug problems, and explain what their results mean in substantive terms.
+
+My own background across development research, policy analysis and computational social science also informs this approach. I draw on examples from real-world social and policy research to show how quantitative methods can be used to answer questions that matter beyond the classroom.
+
+## Modules
+
+As a Teaching Fellow in the Applied Social Data Science programme, my teaching support includes:
+
+- **Applied Statistical Analysis I**
+- **Applied Statistical Analysis II**
+- **Research Methods**
+- **Computer Programming for Social Sciences**
+- **Data Visualisation for Social Scientists**
+- **Quantitative Text Analysis for Social Sciences**
+- **Social Forecasting**
+
+The exact combination of modules and teaching responsibilities varies by semester.

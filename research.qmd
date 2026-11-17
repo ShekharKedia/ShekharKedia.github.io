@@ -1,21 +1,44 @@
 ---
-title: "Research"
+title: ""
 ---
 
 # Research
 
-My research sits at the intersection of social science, quantitative methods, and computational approaches to social and policy research.
+I use quantitative and computational methods to investigate social and policy questions, working across textual, survey, administrative and other forms of social data.
 
-## Research interests
+My research interests have developed across development research and programme evaluation, applied policy analysis, and computational social science. Across these settings, I am particularly interested in how data and quantitative methods can be used to measure social phenomena, understand patterns in public discourse, and generate evidence for policy and programme decisions.
 
-My work focuses on the use of quantitative and computational methods to study social and policy questions. My research interests include:
+## Computational social science
 
-- **Computational social science**
-- **Quantitative text and sentiment analysis**
-- **Social media and public opinion**
-- **Applied statistics and machine learning**
-- **Social and policy data analysis**
-- **Data visualisation**
+My current research interests focus on computational approaches to social and political questions, particularly the analysis of online discourse and public opinion.
+
+My MSc dissertation at Trinity College Dublin examined public sentiment and hate speech in discussions about immigration in Ireland using Reddit data. The project combined quantitative text analysis, sentiment analysis, supervised machine learning and topic modelling to investigate how immigration discourse has changed over time and what themes characterise potentially hateful content.
+
+I have also applied computational text analysis to political speech, analysing Indian Union Budget speeches over several decades using lexical, readability and sentiment measures.
+
+## Applied policy and administrative data
+
+I have worked with administrative and assessment data to investigate social and policy questions where individual-level evidence can inform institutional decision-making.
+
+At the Injuries Resolution Board, I contributed to research examining accidents involving cyclists and e-scooter users, combining quantitative analysis of injury and accident characteristics with thematic analysis of qualitative information from medical reports.
+
+I also worked on analysis of personal injury compensation assessments, examining award values, claim volumes, injury characteristics and changes over time.
+
+## Development research and programme evaluation
+
+Before moving into academic social data science, I worked extensively in development research, programme evaluation and evidence generation.
+
+My work included research on women's empowerment, market access, digital and financial inclusion, nutrition, and programme implementation. At Grameen Foundation, I contributed to the measurement and evaluation of development programmes, including the MANDI project in Uttar Pradesh, which examined women's empowerment and market inclusion using quantitative and qualitative approaches.
+
+This work shaped my interest in measurement: how abstract social concepts such as empowerment, agency and inclusion can be operationalised, measured and evaluated using empirical data.
+
+## Quantitative methods
+
+A recurring strand of my work is the application and communication of quantitative methods for social research.
+
+I have worked with multivariate methods including Multiple Correspondence Analysis and Geometric Data Analysis, statistical modelling, machine learning, quantitative text analysis and data visualisation.
+
+My work using MCA and GDA examined patterns of religious beliefs and their relationship to social characteristics, while other projects have used text analysis and machine learning to study political speeches and online public discourse.
 
 ## Selected research
 
@@ -25,9 +48,7 @@ My work focuses on the use of quantitative and computational methods to study so
 
 **MSc Dissertation · Trinity College Dublin · 2025**
 
-Analysed public sentiment and hate speech in discussions around immigration in Ireland using Reddit data, quantitative text analysis, sentiment analysis, and supervised machine learning.
-
-The project examined patterns in how immigration is discussed online and explored variation in sentiment and potentially hateful language across discussions.
+Analysed public sentiment and hate speech in discussions around immigration in Ireland using Reddit data, quantitative text analysis, sentiment analysis, supervised machine learning and topic modelling.
 
 [View project →](projects.qmd)
 
@@ -39,58 +60,43 @@ The project examined patterns in how immigration is discussed online and explore
 
 **Research and Data Insights · Injuries Resolution Board · 2024**
 
-Analysed data relating to accidents involving vulnerable road users, with a particular focus on cyclists and e-scooter users.
+Research examining accident characteristics, injuries, quality of life and other outcomes among cyclists and e-scooter users using compensation assessment data.
 
-The work contributed to an analytical framework for understanding patterns in road traffic accidents and personal injury claims.
+[View project →](projects.qmd)
 
 :::
 
 ::: {.research-item}
 
-### Personal Injuries Award Values Report
+### Measuring Women's Empowerment and Market Inclusion
 
-**Research and Data Insights · Injuries Resolution Board · 2024**
+**Grameen Foundation · 2022–23**
 
-Analysed personal injury award values and characteristics of injury claims, contributing to the organisation's reporting and understanding of award patterns.
+Research and evaluation for the MANDI project examining women's empowerment, market access, and digital and financial inclusion.
 
-:::
-
-## Research methods
-
-I use quantitative and computational methods across research projects, including:
-
-::: {.method-grid}
-
-::: {.method-item}
-
-### Statistical analysis
-
-Regression modelling, hypothesis testing, statistical inference and exploratory data analysis using R and Python.
+[View project →](projects.qmd)
 
 :::
 
-::: {.method-item}
+::: {.research-item}
 
-### Computational social science
+### Religious Beliefs and Social Space
 
-Text analysis, sentiment analysis, social media data and analysis of large-scale unstructured data.
+**2024**
 
-:::
+An application of Multiple Correspondence Analysis and Geometric Data Analysis to examine patterns of religious beliefs using international survey data.
 
-::: {.method-item}
-
-### Machine learning
-
-Supervised learning, clustering and predictive modelling using R and Python.
+[View project →](projects.qmd)
 
 :::
 
-::: {.method-item}
+## Publications and research outputs
 
-### Data visualisation
+A selection of reports, articles and public-facing research outputs.
 
-Communicating quantitative findings using R, Python, Power BI and interactive visualisation tools.
-
-:::
-
-:::
+- **Accidents Involving Cyclists and E-scooter Users** — Injuries Resolution Board, 2024
+- **Personal Injuries Award Values Report** — Injuries Resolution Board, 2024
+- **Indian Budget Analysis: Text Complexity & Net Sentiment** — 2024
+- **Creating a Structural Space for Religious Beliefs: Using MCA and GDA** — 2024
+- **A Case for Clean Cooking Solutions to Curb Environmental Footprint** — *Deccan Chronicle*, 2019
+- **How Poshan-Shivirs can help drive awareness & practice to address SAM/SUW issue in Under 5 children** — Grameen Foundation India, case study
