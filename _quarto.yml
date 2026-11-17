@@ -4,7 +4,8 @@ project:
 website:
   title: "Shekhar Kedia"
   description: "Academic website of Shekhar Kedia — Teaching Fellow in Applied Social Data Science at Trinity College Dublin."
-
+  site-url: "https://shekharkedia.github.io/"
+  
   navbar:
     title: false
     left:
@@ -21,9 +22,6 @@ website:
 
   open-graph: true
   twitter-card: true
-
-resources:
-  - google560fc5762046a7d0.html
 
 format:
   html:
